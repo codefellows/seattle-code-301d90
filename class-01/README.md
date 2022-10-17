@@ -1,5 +1,10 @@
 # React and Component-Based Architecture
 
+## In Class Take Aways
+
+- [Arrow Function / Class Repl review](https://replit.com/@arpatterson31/Class-301d90-Prework-Review#index.js)
+- [forEach Code Challenge Repl](https://replit.com/@arpatterson31/Class-301d90-For-Each#index.js)
+
 ## Overview
 
 Today we will be covering some new topics and reviewing concepts you should already be familiar with.
