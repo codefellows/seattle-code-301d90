@@ -1,5 +1,10 @@
 # Passing Functions as Props
 
+## In Class Take Aways
+
+- [Filter Repl](https://replit.com/@arpatterson31/Class-301d90-Filter#index.js)
+- [React Shared Parent WB](inclass-wb/react-sharedparent.png)
+
 ## Overview
 
 Yesterday, you learned how to pass information from a parent component into a child component through `props`. Today, we are going to pass functions through the `props` as well. We are also going to display a nested component using `.map` rather than hard-coding each one individually.
