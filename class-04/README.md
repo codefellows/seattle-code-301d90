@@ -1,5 +1,9 @@
 # React and Forms
 
+## In Class Takeaway
+
+- [Sort Repl](https://replit.com/@arpatterson31/Class-301d90-Sort#index.js)
+
 ## Overview
 
 Today we will cover how React handles `forms` and the asynchronous nature of setting state.
