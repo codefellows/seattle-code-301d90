@@ -1,5 +1,9 @@
 # Class 5: Putting it all together
 
+## In class takeaways
+
+- [Reduce Repl](https://replit.com/@arpatterson31/Class-301d90-Reduce#index.js)
+
 ## Overview
 
 Today we will use the skills we learned over the week to build a new application: city explorer! Your lab will be to take React starter code and turn it into a beautiful portfolio.
