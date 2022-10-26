@@ -1,0 +1,19 @@
+body {
+  width: 80%;
+  margin: auto;
+}
+
+form {
+  height: 20vh;
+}
+
+form button {
+  background-color: #972bce;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 15px;
+  text-decoration: none;
+  margin: 4px 15px;
+  cursor: pointer;
+}
